@@ -1,6 +1,3 @@
 # hello-world
-just another repository
+getting started with git
 
-Hi devs
-
-Larry here, i like java and web.
